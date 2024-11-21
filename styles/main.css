@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background: #acfaf3;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    flex-wrap: wrap;
+}
+
+header{
+    width: 97.5%;
+    height: 4rem;
+    margin: 1rem;
+    /*background: #fbd24e;*/
+}
+
+header > a > img{
+    width: 3rem;
+    top: 10%;
+    left: 50%;
+}
+header > a{
+    top: 10%;
+    left: 50%;
+}
